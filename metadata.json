@@ -1,0 +1,6 @@
+{
+  "name": "Smart Relay Controller",
+  "description": "Control 4-channel relays with customizable MQTT configurations (e.g. MyQTTHub), dual UI layouts, voice command integration, and interactive logging in an elegant forest green interface.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
